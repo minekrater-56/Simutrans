@@ -217,4 +217,4 @@ Simutrans is offered as a full free version with all features and updates includ
 Don't miss out on the chance to build your own transport empire. **Download Simutrans now and start your adventure!**
 
 ---
-**Last updated:** 2026-10-20 22:49:15 UTC
+**Last updated:** 2026-10-21 01:07:49 UTC
